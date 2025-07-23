@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-%E2%9C%94%EF%B8%8F-brightgreen)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](https://grouplens.org/datasets/movielens/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/CollinsNyatundo/movielens_recommender_system)
 
 ---
