@@ -71,14 +71,6 @@ In the era of endless streaming content, users are overwhelmed by choices. This 
 
 ## Usage
 
-### Run the Streamlit App
-
-```bash
-streamlit run app.py
-```
-- Open the provided local URL in your browser to interact with the MovieLens Recommendation System.
-- Explore recommendations, analytics, and model performance through the web interface.
-
 ### Jupyter Notebook
 - The full modeling pipeline, data exploration, and evaluation are documented in [`index.ipynb`](index.ipynb).
 - Open the notebook in JupyterLab or VSCode to review and experiment with the code.
